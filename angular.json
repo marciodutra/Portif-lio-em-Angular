@@ -65,10 +65,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "curso-angular-portifolio:build:production"
+              "buildTarget": "Portif-lio-em-Angular:build:production"
             },
             "development": {
-              "buildTarget": "curso-angular-portifolio:build:development"
+              "buildTarget": "Portif-lio-em-Angular:build:development"
             }
           },
           "defaultConfiguration": "development"
