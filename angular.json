@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "curso-angular-portifolio": {
+    "Portif-lio-em-Angular": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
